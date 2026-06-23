@@ -1,0 +1,551 @@
+sector_key,sector_label,city_side,parking_slots,surface_type,lighting_score,risk_band,opened_on
+1,River Side Dock 001,river_side,8,mixed,1,low,2022-10-19
+2,North Dock 002,north,13,asphalt,3,medium,2023-05-12
+3,North Dock 003,north,38,concrete,9,medium,2024-12-22
+4,South Dock 004,south,32,asphalt,3,elevated,2022-08-07
+5,West Dock 005,west,38,concrete,10,low,2023-02-17
+6,West Dock 006,west,60,mixed,4,low,2025-05-11
+7,East Dock 007,east,39,concrete,8,elevated,2025-06-30
+8,West Dock 008,west,28,asphalt,9,medium,2023-12-06
+9,South Dock 009,south,58,paving_stone,3,medium,2025-05-13
+10,West Dock 010,west,47,paving_stone,8,medium,2023-03-01
+11,River Side Dock 011,river_side,43,asphalt,5,medium,2025-05-07
+12,East Dock 012,east,42,mixed,7,low,2023-08-11
+13,East Dock 013,east,31,concrete,4,medium,2023-01-21
+14,River Side Dock 014,river_side,43,asphalt,7,medium,2024-08-28
+15,South Dock 015,south,54,paving_stone,3,medium,2022-03-12
+16,River Side Dock 016,river_side,58,asphalt,10,medium,2024-05-01
+17,East Dock 017,east,51,gravel_edge,2,medium,2025-06-05
+18,North Dock 018,north,23,paving_stone,2,elevated,2022-05-22
+19,West Dock 019,west,10,asphalt,2,low,2022-11-11
+20,Central Dock 020,central,44,gravel_edge,3,low,2022-06-28
+21,East Dock 021,east,39,mixed,4,medium,2025-05-04
+22,South Dock 022,south,30,asphalt,9,low,2024-03-10
+23,West Dock 023,west,58,concrete,6,low,2023-06-29
+24,South Dock 024,south,13,concrete,8,low,2022-02-15
+25,South Dock 025,south,44,concrete,6,medium,2023-08-24
+26,River Side Dock 026,river_side,52,paving_stone,4,elevated,2025-01-04
+27,River Side Dock 027,river_side,33,mixed,3,medium,2022-08-21
+28,Central Dock 028,central,38,gravel_edge,2,low,2025-01-21
+29,North Dock 029,north,49,gravel_edge,7,low,2022-02-21
+30,South Dock 030,south,56,mixed,8,medium,2023-04-12
+31,North Dock 031,north,36,concrete,8,elevated,2023-12-08
+32,East Dock 032,east,55,concrete,2,low,2022-06-20
+33,West Dock 033,west,31,gravel_edge,10,medium,2024-02-22
+34,East Dock 034,east,20,gravel_edge,7,medium,2024-12-29
+35,Central Dock 035,central,43,asphalt,8,low,2024-05-18
+36,West Dock 036,west,46,asphalt,10,low,2022-11-02
+37,River Side Dock 037,river_side,54,concrete,9,low,2023-09-02
+38,Central Dock 038,central,10,asphalt,7,elevated,2025-04-19
+39,River Side Dock 039,river_side,10,mixed,9,medium,2023-09-22
+40,West Dock 040,west,28,paving_stone,2,medium,2023-02-15
+41,East Dock 041,east,37,mixed,10,low,2023-08-06
+42,Central Dock 042,central,50,mixed,7,medium,2023-11-15
+43,South Dock 043,south,55,paving_stone,6,low,2024-06-18
+44,North Dock 044,north,16,asphalt,10,elevated,2024-05-09
+45,North Dock 045,north,14,asphalt,9,medium,2025-05-03
+46,South Dock 046,south,29,paving_stone,4,elevated,2025-04-01
+47,River Side Dock 047,river_side,26,paving_stone,8,low,2022-10-06
+48,Central Dock 048,central,47,mixed,10,medium,2025-06-01
+49,East Dock 049,east,48,concrete,1,medium,2022-03-12
+50,South Dock 050,south,38,gravel_edge,7,low,2022-07-14
+51,Central Dock 051,central,52,mixed,1,elevated,2023-04-06
+52,North Dock 052,north,22,concrete,9,elevated,2024-08-24
+53,River Side Dock 053,river_side,27,gravel_edge,4,medium,2025-04-24
+54,East Dock 054,east,8,gravel_edge,4,elevated,2025-05-12
+55,Central Dock 055,central,17,mixed,10,medium,2024-12-13
+56,Central Dock 056,central,22,mixed,1,elevated,2025-06-11
+57,North Dock 057,north,65,gravel_edge,9,low,2025-03-18
+58,West Dock 058,west,37,gravel_edge,7,elevated,2023-04-02
+59,North Dock 059,north,35,mixed,2,medium,2024-07-07
+60,North Dock 060,north,26,concrete,4,low,2024-08-22
+61,River Side Dock 061,river_side,13,mixed,8,medium,2023-07-26
+62,South Dock 062,south,23,mixed,10,medium,2024-03-04
+63,River Side Dock 063,river_side,48,mixed,7,low,2022-05-12
+64,East Dock 064,east,19,concrete,7,elevated,2025-06-14
+65,East Dock 065,east,59,paving_stone,10,low,2024-09-22
+66,East Dock 066,east,53,asphalt,1,low,2023-07-14
+67,River Side Dock 067,river_side,60,mixed,5,medium,2024-04-25
+68,North Dock 068,north,48,gravel_edge,9,low,2023-06-13
+69,Central Dock 069,central,40,gravel_edge,4,low,2024-12-03
+70,River Side Dock 070,river_side,16,mixed,1,low,2023-05-28
+71,North Dock 071,north,23,concrete,4,elevated,2025-01-20
+72,East Dock 072,east,21,asphalt,7,medium,2022-09-09
+73,West Dock 073,west,49,paving_stone,3,medium,2022-12-17
+74,East Dock 074,east,30,paving_stone,6,low,2024-03-29
+75,West Dock 075,west,13,paving_stone,10,low,2023-01-14
+76,West Dock 076,west,36,concrete,2,low,2023-03-15
+77,East Dock 077,east,15,gravel_edge,8,low,2023-06-09
+78,East Dock 078,east,28,asphalt,5,medium,2024-07-27
+79,East Dock 079,east,62,concrete,10,low,2025-07-19
+80,South Dock 080,south,21,mixed,3,low,2022-08-17
+81,River Side Dock 081,river_side,63,gravel_edge,10,low,2023-02-02
+82,North Dock 082,north,21,mixed,8,low,2023-11-16
+83,East Dock 083,east,27,mixed,5,medium,2022-09-14
+84,West Dock 084,west,64,mixed,2,medium,2023-01-13
+85,Central Dock 085,central,29,asphalt,3,medium,2025-01-29
+86,South Dock 086,south,11,paving_stone,2,medium,2023-04-29
+87,East Dock 087,east,57,asphalt,8,elevated,2024-10-24
+88,River Side Dock 088,river_side,24,mixed,1,medium,2022-12-21
+89,Central Dock 089,central,51,concrete,3,low,2024-10-24
+90,North Dock 090,north,27,gravel_edge,1,low,2023-06-27
+91,East Dock 091,east,54,gravel_edge,4,low,2024-11-19
+92,River Side Dock 092,river_side,43,paving_stone,3,low,2022-03-15
+93,East Dock 093,east,10,mixed,8,low,2023-06-30
+94,River Side Dock 094,river_side,51,gravel_edge,10,low,2023-06-03
+95,South Dock 095,south,36,asphalt,6,elevated,2024-10-19
+96,West Dock 096,west,53,mixed,4,low,2022-09-22
+97,East Dock 097,east,27,mixed,9,medium,2023-02-20
+98,Central Dock 098,central,20,paving_stone,10,low,2023-11-19
+99,East Dock 099,east,29,paving_stone,7,low,2023-02-15
+100,Central Dock 100,central,57,mixed,6,medium,2022-07-26
+101,North Dock 101,north,23,asphalt,4,low,2025-05-18
+102,East Dock 102,east,57,mixed,9,low,2022-10-08
+103,East Dock 103,east,16,gravel_edge,5,low,2024-03-07
+104,North Dock 104,north,15,mixed,4,medium,2022-05-17
+105,West Dock 105,west,61,asphalt,5,low,2025-06-06
+106,Central Dock 106,central,47,concrete,7,low,2024-08-10
+107,River Side Dock 107,river_side,44,mixed,5,low,2022-01-07
+108,East Dock 108,east,22,paving_stone,6,elevated,2022-05-12
+109,Central Dock 109,central,39,asphalt,4,medium,2022-08-08
+110,Central Dock 110,central,57,paving_stone,3,medium,2022-08-06
+111,River Side Dock 111,river_side,17,mixed,1,low,2022-03-13
+112,East Dock 112,east,35,mixed,5,low,2023-01-07
+113,West Dock 113,west,50,paving_stone,1,low,2022-04-19
+114,River Side Dock 114,river_side,55,asphalt,6,medium,2022-12-07
+115,West Dock 115,west,23,gravel_edge,3,medium,2025-07-02
+116,East Dock 116,east,27,mixed,9,low,2023-07-10
+117,North Dock 117,north,37,gravel_edge,6,medium,2022-04-09
+118,River Side Dock 118,river_side,19,mixed,8,medium,2024-10-17
+119,East Dock 119,east,10,mixed,5,medium,2022-05-02
+120,South Dock 120,south,37,paving_stone,8,low,2023-09-17
+121,River Side Dock 121,river_side,31,paving_stone,9,elevated,2025-01-29
+122,North Dock 122,north,60,gravel_edge,3,low,2025-03-17
+123,Central Dock 123,central,13,gravel_edge,10,medium,2022-10-19
+124,East Dock 124,east,51,mixed,2,low,2025-04-28
+125,North Dock 125,north,12,gravel_edge,6,low,2022-02-07
+126,North Dock 126,north,64,asphalt,3,medium,2024-06-09
+127,River Side Dock 127,river_side,20,gravel_edge,10,medium,2022-09-09
+128,East Dock 128,east,50,asphalt,9,medium,2022-10-29
+129,Central Dock 129,central,60,mixed,9,medium,2022-09-16
+130,East Dock 130,east,49,concrete,7,elevated,2023-01-11
+131,North Dock 131,north,31,paving_stone,5,low,2023-10-24
+132,River Side Dock 132,river_side,56,gravel_edge,4,low,2023-02-11
+133,East Dock 133,east,52,asphalt,7,low,2022-09-17
+134,North Dock 134,north,62,asphalt,7,medium,2025-06-14
+135,River Side Dock 135,river_side,22,concrete,2,low,2023-08-04
+136,North Dock 136,north,64,asphalt,8,low,2024-05-19
+137,West Dock 137,west,45,mixed,9,elevated,2024-05-25
+138,South Dock 138,south,43,gravel_edge,4,elevated,2022-01-17
+139,River Side Dock 139,river_side,37,mixed,3,low,2023-10-01
+140,River Side Dock 140,river_side,13,asphalt,3,low,2024-06-17
+141,North Dock 141,north,25,gravel_edge,8,low,2024-03-27
+142,Central Dock 142,central,62,concrete,7,medium,2022-05-07
+143,West Dock 143,west,27,paving_stone,2,low,2023-01-10
+144,River Side Dock 144,river_side,17,paving_stone,5,low,2025-03-21
+145,Central Dock 145,central,47,asphalt,5,low,2022-05-15
+146,South Dock 146,south,33,asphalt,1,low,2022-06-30
+147,South Dock 147,south,16,concrete,1,medium,2023-04-16
+148,Central Dock 148,central,20,asphalt,7,low,2022-02-07
+149,Central Dock 149,central,44,asphalt,1,medium,2025-04-30
+150,North Dock 150,north,15,gravel_edge,1,low,2023-12-05
+151,River Side Dock 151,river_side,59,paving_stone,10,medium,2022-04-26
+152,Central Dock 152,central,28,concrete,2,low,2024-01-19
+153,East Dock 153,east,8,paving_stone,2,medium,2024-11-26
+154,River Side Dock 154,river_side,26,asphalt,2,low,2024-09-20
+155,River Side Dock 155,river_side,34,gravel_edge,1,medium,2024-10-31
+156,Central Dock 156,central,15,asphalt,5,elevated,2024-01-17
+157,West Dock 157,west,28,mixed,3,low,2023-08-18
+158,River Side Dock 158,river_side,64,asphalt,2,elevated,2025-01-13
+159,North Dock 159,north,10,asphalt,8,elevated,2023-11-30
+160,East Dock 160,east,38,concrete,7,medium,2023-01-12
+161,East Dock 161,east,36,concrete,4,low,2024-03-07
+162,North Dock 162,north,23,concrete,3,low,2022-09-21
+163,Central Dock 163,central,15,concrete,9,medium,2024-04-30
+164,East Dock 164,east,13,asphalt,1,low,2025-01-24
+165,East Dock 165,east,51,paving_stone,10,low,2024-03-02
+166,Central Dock 166,central,23,concrete,7,elevated,2024-02-25
+167,South Dock 167,south,47,concrete,2,medium,2025-04-24
+168,East Dock 168,east,51,paving_stone,7,low,2023-10-24
+169,North Dock 169,north,52,paving_stone,5,medium,2023-11-16
+170,North Dock 170,north,20,asphalt,7,medium,2024-11-17
+171,Central Dock 171,central,13,asphalt,8,low,2023-05-02
+172,East Dock 172,east,62,mixed,4,low,2022-10-17
+173,River Side Dock 173,river_side,53,concrete,7,medium,2023-08-06
+174,South Dock 174,south,58,concrete,4,elevated,2024-05-08
+175,East Dock 175,east,20,mixed,6,low,2024-12-04
+176,West Dock 176,west,56,asphalt,5,elevated,2024-04-26
+177,Central Dock 177,central,27,paving_stone,9,low,2024-06-02
+178,South Dock 178,south,56,gravel_edge,10,medium,2023-07-04
+179,North Dock 179,north,16,concrete,4,medium,2023-04-18
+180,Central Dock 180,central,48,mixed,3,elevated,2025-01-14
+181,Central Dock 181,central,48,mixed,1,low,2022-10-13
+182,West Dock 182,west,15,paving_stone,9,elevated,2024-11-05
+183,East Dock 183,east,50,mixed,7,low,2025-04-11
+184,North Dock 184,north,14,paving_stone,2,elevated,2022-01-31
+185,Central Dock 185,central,20,paving_stone,3,low,2023-07-13
+186,River Side Dock 186,river_side,30,paving_stone,9,low,2025-02-25
+187,West Dock 187,west,28,paving_stone,6,low,2025-02-03
+188,Central Dock 188,central,25,mixed,1,medium,2022-02-15
+189,River Side Dock 189,river_side,49,paving_stone,8,low,2022-04-18
+190,Central Dock 190,central,14,mixed,3,medium,2022-03-26
+191,West Dock 191,west,10,paving_stone,6,low,2024-03-13
+192,South Dock 192,south,16,asphalt,10,low,2024-10-17
+193,West Dock 193,west,25,gravel_edge,7,medium,2022-12-06
+194,North Dock 194,north,60,concrete,8,low,2022-03-11
+195,East Dock 195,east,62,concrete,9,low,2025-02-01
+196,West Dock 196,west,9,paving_stone,5,low,2024-04-05
+197,West Dock 197,west,57,gravel_edge,4,medium,2024-01-23
+198,South Dock 198,south,16,paving_stone,1,low,2024-11-01
+199,West Dock 199,west,52,concrete,10,low,2024-01-23
+200,South Dock 200,south,20,asphalt,6,low,2024-10-05
+201,Central Dock 201,central,41,mixed,5,medium,2025-04-15
+202,North Dock 202,north,11,mixed,9,low,2023-12-13
+203,Central Dock 203,central,22,concrete,7,low,2022-11-19
+204,River Side Dock 204,river_side,25,mixed,7,elevated,2022-08-11
+205,North Dock 205,north,54,paving_stone,3,low,2025-05-21
+206,West Dock 206,west,53,mixed,8,low,2022-06-24
+207,North Dock 207,north,17,paving_stone,1,low,2025-01-18
+208,North Dock 208,north,51,asphalt,5,low,2022-07-28
+209,Central Dock 209,central,55,paving_stone,8,medium,2025-04-30
+210,North Dock 210,north,24,paving_stone,4,medium,2023-05-16
+211,River Side Dock 211,river_side,29,concrete,5,low,2022-12-13
+212,Central Dock 212,central,45,paving_stone,3,low,2023-07-13
+213,River Side Dock 213,river_side,13,gravel_edge,1,medium,2024-02-05
+214,North Dock 214,north,53,gravel_edge,7,low,2022-04-05
+215,North Dock 215,north,11,mixed,6,low,2023-09-14
+216,West Dock 216,west,53,asphalt,3,medium,2023-10-06
+217,East Dock 217,east,12,gravel_edge,5,low,2023-02-14
+218,Central Dock 218,central,25,concrete,10,low,2023-02-17
+219,River Side Dock 219,river_side,26,paving_stone,5,medium,2023-02-21
+220,South Dock 220,south,48,paving_stone,8,low,2022-10-19
+221,Central Dock 221,central,18,asphalt,10,medium,2022-01-25
+222,North Dock 222,north,45,mixed,5,low,2023-03-25
+223,North Dock 223,north,20,gravel_edge,6,low,2022-09-23
+224,South Dock 224,south,48,asphalt,10,low,2022-12-07
+225,Central Dock 225,central,35,gravel_edge,5,medium,2022-07-29
+226,North Dock 226,north,54,mixed,7,medium,2024-11-25
+227,West Dock 227,west,11,mixed,4,elevated,2023-05-14
+228,Central Dock 228,central,47,asphalt,6,low,2022-07-23
+229,South Dock 229,south,16,gravel_edge,6,low,2022-02-05
+230,East Dock 230,east,17,gravel_edge,5,elevated,2025-01-14
+231,South Dock 231,south,53,concrete,9,medium,2024-12-27
+232,Central Dock 232,central,57,asphalt,10,elevated,2022-12-12
+233,East Dock 233,east,26,asphalt,3,low,2023-07-02
+234,South Dock 234,south,61,concrete,10,medium,2025-05-04
+235,Central Dock 235,central,37,asphalt,7,low,2022-12-18
+236,East Dock 236,east,22,asphalt,10,low,2024-11-05
+237,North Dock 237,north,22,paving_stone,4,low,2024-12-22
+238,Central Dock 238,central,12,asphalt,6,low,2024-05-04
+239,West Dock 239,west,34,asphalt,3,low,2022-01-02
+240,River Side Dock 240,river_side,63,concrete,7,low,2022-07-20
+241,East Dock 241,east,63,paving_stone,9,low,2022-07-24
+242,Central Dock 242,central,38,concrete,5,low,2023-09-26
+243,Central Dock 243,central,17,mixed,7,low,2022-09-03
+244,River Side Dock 244,river_side,20,asphalt,6,elevated,2023-06-05
+245,East Dock 245,east,40,gravel_edge,2,medium,2022-09-06
+246,Central Dock 246,central,32,gravel_edge,3,low,2022-09-23
+247,West Dock 247,west,65,paving_stone,10,medium,2025-01-28
+248,River Side Dock 248,river_side,44,concrete,5,low,2025-05-17
+249,North Dock 249,north,55,mixed,2,low,2025-07-16
+250,River Side Dock 250,river_side,55,mixed,9,low,2023-12-03
+251,West Dock 251,west,57,gravel_edge,7,medium,2025-03-16
+252,River Side Dock 252,river_side,47,concrete,9,medium,2022-10-06
+253,East Dock 253,east,30,asphalt,2,low,2025-01-21
+254,Central Dock 254,central,25,concrete,2,low,2023-11-18
+255,East Dock 255,east,39,paving_stone,4,medium,2025-01-21
+256,East Dock 256,east,50,concrete,7,medium,2024-05-14
+257,East Dock 257,east,21,mixed,2,medium,2024-02-10
+258,West Dock 258,west,33,asphalt,2,low,2025-02-04
+259,River Side Dock 259,river_side,55,concrete,1,medium,2024-05-05
+260,North Dock 260,north,11,paving_stone,7,low,2025-05-06
+261,West Dock 261,west,19,gravel_edge,2,low,2022-04-11
+262,East Dock 262,east,37,paving_stone,4,low,2022-02-19
+263,East Dock 263,east,40,mixed,4,medium,2022-05-10
+264,North Dock 264,north,46,mixed,10,low,2022-04-30
+265,South Dock 265,south,45,paving_stone,1,low,2023-02-25
+266,River Side Dock 266,river_side,65,paving_stone,3,medium,2024-07-17
+267,West Dock 267,west,41,asphalt,6,low,2025-04-08
+268,South Dock 268,south,17,paving_stone,8,elevated,2022-06-01
+269,Central Dock 269,central,16,concrete,4,low,2022-10-24
+270,East Dock 270,east,15,gravel_edge,8,elevated,2023-08-28
+271,Central Dock 271,central,37,paving_stone,10,medium,2023-02-18
+272,South Dock 272,south,47,concrete,10,low,2022-02-25
+273,Central Dock 273,central,46,concrete,1,medium,2023-01-30
+274,Central Dock 274,central,8,gravel_edge,10,medium,2025-06-28
+275,West Dock 275,west,50,gravel_edge,1,elevated,2025-03-31
+276,West Dock 276,west,19,mixed,8,low,2022-04-07
+277,South Dock 277,south,23,asphalt,6,low,2023-07-03
+278,North Dock 278,north,60,concrete,7,medium,2023-01-03
+279,Central Dock 279,central,58,paving_stone,6,low,2023-01-24
+280,North Dock 280,north,12,asphalt,4,low,2025-07-13
+281,Central Dock 281,central,18,gravel_edge,10,low,2022-06-09
+282,West Dock 282,west,65,asphalt,7,medium,2024-12-20
+283,River Side Dock 283,river_side,45,concrete,5,low,2023-09-06
+284,Central Dock 284,central,10,mixed,9,low,2022-09-01
+285,West Dock 285,west,61,paving_stone,1,elevated,2022-05-19
+286,North Dock 286,north,52,asphalt,9,low,2022-12-18
+287,River Side Dock 287,river_side,36,asphalt,1,low,2024-09-16
+288,River Side Dock 288,river_side,33,asphalt,6,medium,2024-01-31
+289,River Side Dock 289,river_side,54,gravel_edge,10,medium,2023-05-23
+290,River Side Dock 290,river_side,29,gravel_edge,6,medium,2022-11-04
+291,East Dock 291,east,63,asphalt,2,medium,2022-03-30
+292,Central Dock 292,central,51,gravel_edge,5,low,2022-08-02
+293,River Side Dock 293,river_side,26,mixed,6,medium,2022-02-12
+294,South Dock 294,south,17,concrete,5,medium,2022-07-25
+295,East Dock 295,east,16,concrete,2,medium,2025-05-08
+296,West Dock 296,west,42,concrete,2,low,2022-08-09
+297,Central Dock 297,central,32,paving_stone,4,low,2023-09-19
+298,South Dock 298,south,61,gravel_edge,6,low,2022-07-02
+299,West Dock 299,west,47,paving_stone,9,elevated,2023-01-17
+300,West Dock 300,west,31,concrete,2,medium,2025-01-27
+301,Central Dock 301,central,34,mixed,8,medium,2023-03-10
+302,South Dock 302,south,42,mixed,9,medium,2024-12-16
+303,Central Dock 303,central,38,mixed,9,low,2023-06-30
+304,North Dock 304,north,38,concrete,10,medium,2024-11-12
+305,West Dock 305,west,54,asphalt,2,low,2022-11-22
+306,South Dock 306,south,54,asphalt,3,medium,2025-03-20
+307,South Dock 307,south,17,paving_stone,8,elevated,2024-12-05
+308,West Dock 308,west,29,mixed,6,medium,2025-04-04
+309,South Dock 309,south,47,gravel_edge,2,low,2024-04-12
+310,North Dock 310,north,62,asphalt,4,low,2024-03-25
+311,South Dock 311,south,64,concrete,5,medium,2022-01-06
+312,River Side Dock 312,river_side,45,paving_stone,1,elevated,2024-04-28
+313,West Dock 313,west,34,paving_stone,1,low,2023-12-03
+314,River Side Dock 314,river_side,25,paving_stone,4,low,2025-03-06
+315,East Dock 315,east,28,paving_stone,7,elevated,2025-02-19
+316,Central Dock 316,central,41,paving_stone,1,low,2024-04-27
+317,River Side Dock 317,river_side,38,asphalt,2,medium,2024-03-06
+318,Central Dock 318,central,16,mixed,3,medium,2024-02-21
+319,River Side Dock 319,river_side,23,asphalt,10,low,2022-09-30
+320,River Side Dock 320,river_side,49,mixed,5,low,2025-04-27
+321,West Dock 321,west,52,mixed,8,low,2022-04-27
+322,West Dock 322,west,38,concrete,8,elevated,2022-02-28
+323,River Side Dock 323,river_side,48,gravel_edge,1,low,2022-03-31
+324,Central Dock 324,central,53,gravel_edge,3,low,2023-12-08
+325,West Dock 325,west,62,gravel_edge,2,medium,2023-11-27
+326,North Dock 326,north,15,asphalt,9,elevated,2022-06-14
+327,River Side Dock 327,river_side,31,paving_stone,5,medium,2023-05-24
+328,West Dock 328,west,37,gravel_edge,7,elevated,2024-11-29
+329,East Dock 329,east,52,mixed,9,elevated,2025-06-05
+330,East Dock 330,east,54,gravel_edge,4,medium,2023-02-26
+331,South Dock 331,south,14,paving_stone,2,low,2023-08-25
+332,River Side Dock 332,river_side,24,asphalt,1,medium,2024-06-27
+333,South Dock 333,south,16,mixed,10,elevated,2023-08-08
+334,South Dock 334,south,12,gravel_edge,9,low,2023-06-01
+335,West Dock 335,west,45,mixed,2,low,2022-05-15
+336,West Dock 336,west,44,paving_stone,2,medium,2023-03-20
+337,Central Dock 337,central,26,gravel_edge,4,low,2022-05-25
+338,South Dock 338,south,50,gravel_edge,5,low,2024-12-20
+339,Central Dock 339,central,24,paving_stone,7,low,2023-06-08
+340,North Dock 340,north,29,asphalt,8,elevated,2022-09-23
+341,Central Dock 341,central,28,asphalt,1,low,2023-10-13
+342,South Dock 342,south,23,asphalt,5,low,2024-06-26
+343,West Dock 343,west,42,gravel_edge,7,medium,2024-07-14
+344,North Dock 344,north,53,mixed,3,elevated,2024-10-28
+345,North Dock 345,north,63,paving_stone,8,low,2025-06-17
+346,East Dock 346,east,32,paving_stone,3,medium,2024-08-18
+347,River Side Dock 347,river_side,26,asphalt,9,medium,2022-07-17
+348,North Dock 348,north,26,asphalt,1,medium,2023-07-02
+349,Central Dock 349,central,24,mixed,1,medium,2024-06-05
+350,North Dock 350,north,63,mixed,1,elevated,2024-04-10
+351,South Dock 351,south,62,mixed,4,low,2023-02-15
+352,West Dock 352,west,49,mixed,8,low,2022-04-20
+353,East Dock 353,east,34,paving_stone,10,low,2024-09-26
+354,West Dock 354,west,19,paving_stone,10,medium,2023-05-26
+355,Central Dock 355,central,14,paving_stone,5,medium,2022-04-21
+356,East Dock 356,east,11,paving_stone,10,low,2023-03-06
+357,North Dock 357,north,45,paving_stone,5,low,2023-03-28
+358,West Dock 358,west,8,concrete,10,medium,2023-01-01
+359,South Dock 359,south,11,paving_stone,1,low,2022-12-18
+360,Central Dock 360,central,51,concrete,2,elevated,2025-06-07
+361,North Dock 361,north,31,concrete,3,low,2025-06-08
+362,River Side Dock 362,river_side,62,asphalt,2,low,2024-09-14
+363,West Dock 363,west,31,concrete,1,medium,2024-07-31
+364,Central Dock 364,central,27,mixed,8,medium,2022-08-09
+365,West Dock 365,west,22,mixed,10,medium,2023-04-23
+366,Central Dock 366,central,47,gravel_edge,2,low,2025-05-07
+367,River Side Dock 367,river_side,56,gravel_edge,8,low,2023-10-20
+368,River Side Dock 368,river_side,26,concrete,1,low,2022-09-18
+369,South Dock 369,south,43,paving_stone,3,elevated,2022-06-02
+370,North Dock 370,north,12,mixed,1,low,2023-04-12
+371,North Dock 371,north,28,paving_stone,2,elevated,2022-06-22
+372,North Dock 372,north,36,concrete,3,low,2022-05-30
+373,East Dock 373,east,31,asphalt,1,low,2022-02-21
+374,Central Dock 374,central,46,paving_stone,7,medium,2023-02-11
+375,East Dock 375,east,31,concrete,9,elevated,2024-01-03
+376,North Dock 376,north,27,asphalt,4,low,2022-11-18
+377,South Dock 377,south,30,concrete,9,low,2024-06-22
+378,Central Dock 378,central,58,asphalt,1,low,2025-02-24
+379,East Dock 379,east,51,concrete,3,medium,2022-03-21
+380,Central Dock 380,central,47,asphalt,6,low,2022-03-30
+381,East Dock 381,east,16,mixed,1,medium,2023-10-22
+382,South Dock 382,south,34,gravel_edge,10,low,2024-04-11
+383,West Dock 383,west,28,paving_stone,9,elevated,2025-04-06
+384,East Dock 384,east,60,mixed,9,medium,2024-11-21
+385,South Dock 385,south,49,paving_stone,7,medium,2023-05-12
+386,Central Dock 386,central,35,asphalt,10,low,2022-11-04
+387,West Dock 387,west,58,paving_stone,5,low,2022-03-23
+388,East Dock 388,east,26,mixed,9,low,2023-10-12
+389,South Dock 389,south,42,paving_stone,6,low,2023-02-23
+390,River Side Dock 390,river_side,40,concrete,5,low,2023-06-19
+391,East Dock 391,east,37,paving_stone,10,elevated,2022-03-02
+392,Central Dock 392,central,27,concrete,3,low,2024-08-26
+393,West Dock 393,west,44,gravel_edge,3,elevated,2025-03-07
+394,River Side Dock 394,river_side,21,asphalt,8,elevated,2022-06-17
+395,River Side Dock 395,river_side,54,concrete,1,medium,2022-12-26
+396,West Dock 396,west,44,paving_stone,4,low,2023-04-23
+397,Central Dock 397,central,41,gravel_edge,3,medium,2022-03-31
+398,West Dock 398,west,9,paving_stone,9,low,2024-06-14
+399,North Dock 399,north,26,asphalt,9,low,2024-03-07
+400,North Dock 400,north,29,gravel_edge,6,low,2022-12-10
+401,Central Dock 401,central,29,concrete,6,low,2023-02-02
+402,River Side Dock 402,river_side,46,gravel_edge,3,low,2024-06-11
+403,River Side Dock 403,river_side,41,gravel_edge,5,low,2023-02-14
+404,East Dock 404,east,38,concrete,1,low,2025-06-22
+405,River Side Dock 405,river_side,49,asphalt,6,low,2022-03-30
+406,North Dock 406,north,62,paving_stone,2,low,2022-11-27
+407,East Dock 407,east,14,asphalt,10,medium,2022-02-19
+408,North Dock 408,north,31,concrete,2,low,2023-11-06
+409,North Dock 409,north,14,asphalt,8,elevated,2023-08-21
+410,West Dock 410,west,20,mixed,4,low,2024-11-28
+411,River Side Dock 411,river_side,36,paving_stone,10,low,2023-05-10
+412,South Dock 412,south,20,mixed,8,low,2023-10-04
+413,North Dock 413,north,31,mixed,2,medium,2023-09-24
+414,North Dock 414,north,51,paving_stone,1,low,2022-05-03
+415,North Dock 415,north,23,concrete,2,low,2022-08-02
+416,North Dock 416,north,42,concrete,6,low,2022-01-30
+417,East Dock 417,east,20,mixed,2,low,2025-07-14
+418,South Dock 418,south,29,mixed,8,low,2024-08-06
+419,Central Dock 419,central,62,concrete,2,low,2022-04-19
+420,East Dock 420,east,17,asphalt,5,low,2024-06-12
+421,North Dock 421,north,27,asphalt,6,elevated,2022-09-24
+422,West Dock 422,west,11,paving_stone,10,low,2024-02-24
+423,River Side Dock 423,river_side,13,concrete,2,medium,2024-11-26
+424,East Dock 424,east,27,asphalt,8,medium,2023-09-08
+425,East Dock 425,east,31,asphalt,1,low,2024-12-31
+426,West Dock 426,west,8,gravel_edge,1,low,2025-02-14
+427,North Dock 427,north,24,paving_stone,4,medium,2024-10-11
+428,South Dock 428,south,46,paving_stone,2,low,2024-01-09
+429,North Dock 429,north,41,mixed,3,medium,2024-03-24
+430,East Dock 430,east,36,paving_stone,5,low,2024-04-06
+431,North Dock 431,north,27,gravel_edge,7,medium,2024-09-07
+432,River Side Dock 432,river_side,16,asphalt,1,medium,2022-12-09
+433,River Side Dock 433,river_side,13,asphalt,4,low,2023-03-22
+434,River Side Dock 434,river_side,41,asphalt,10,medium,2025-04-10
+435,East Dock 435,east,41,paving_stone,1,medium,2024-08-05
+436,East Dock 436,east,35,concrete,2,low,2024-06-06
+437,West Dock 437,west,29,concrete,4,low,2023-12-10
+438,West Dock 438,west,51,asphalt,2,low,2022-08-23
+439,Central Dock 439,central,34,asphalt,3,medium,2025-06-28
+440,West Dock 440,west,11,asphalt,5,medium,2025-03-05
+441,North Dock 441,north,59,gravel_edge,6,low,2022-11-14
+442,North Dock 442,north,50,concrete,2,low,2023-01-25
+443,East Dock 443,east,49,paving_stone,1,elevated,2022-11-27
+444,West Dock 444,west,39,gravel_edge,9,medium,2022-05-15
+445,Central Dock 445,central,44,asphalt,7,low,2022-05-22
+446,North Dock 446,north,18,paving_stone,6,low,2024-09-18
+447,West Dock 447,west,24,gravel_edge,4,low,2024-09-05
+448,South Dock 448,south,14,mixed,9,medium,2022-02-02
+449,North Dock 449,north,38,paving_stone,9,elevated,2022-05-10
+450,West Dock 450,west,64,asphalt,6,medium,2023-07-22
+451,West Dock 451,west,60,mixed,8,medium,2023-08-05
+452,South Dock 452,south,19,gravel_edge,7,low,2023-09-10
+453,North Dock 453,north,23,asphalt,9,low,2022-08-26
+454,North Dock 454,north,11,concrete,6,low,2025-04-08
+455,South Dock 455,south,26,gravel_edge,4,elevated,2022-06-14
+456,North Dock 456,north,35,paving_stone,10,low,2024-04-17
+457,River Side Dock 457,river_side,45,paving_stone,8,elevated,2022-08-30
+458,South Dock 458,south,62,gravel_edge,10,medium,2024-06-03
+459,South Dock 459,south,12,concrete,7,low,2024-04-13
+460,South Dock 460,south,15,mixed,8,low,2023-04-02
+461,North Dock 461,north,63,concrete,10,medium,2024-12-25
+462,North Dock 462,north,37,gravel_edge,6,low,2022-03-17
+463,South Dock 463,south,39,concrete,2,low,2023-08-16
+464,North Dock 464,north,45,gravel_edge,6,low,2022-11-25
+465,River Side Dock 465,river_side,60,asphalt,2,medium,2023-01-04
+466,Central Dock 466,central,33,concrete,9,medium,2023-05-06
+467,River Side Dock 467,river_side,57,mixed,10,low,2025-06-20
+468,Central Dock 468,central,46,asphalt,10,medium,2023-04-23
+469,East Dock 469,east,9,gravel_edge,6,low,2024-10-15
+470,East Dock 470,east,47,concrete,8,medium,2024-12-13
+471,South Dock 471,south,29,mixed,2,low,2024-11-09
+472,River Side Dock 472,river_side,13,asphalt,8,low,2022-05-27
+473,North Dock 473,north,36,paving_stone,3,medium,2024-10-12
+474,River Side Dock 474,river_side,21,paving_stone,3,low,2023-08-21
+475,West Dock 475,west,28,asphalt,5,low,2024-03-07
+476,South Dock 476,south,34,concrete,8,low,2025-06-14
+477,Central Dock 477,central,32,concrete,10,low,2023-01-16
+478,River Side Dock 478,river_side,18,concrete,1,low,2024-06-05
+479,River Side Dock 479,river_side,27,gravel_edge,8,low,2022-12-05
+480,West Dock 480,west,44,gravel_edge,3,elevated,2022-01-31
+481,Central Dock 481,central,51,mixed,8,low,2023-05-26
+482,West Dock 482,west,25,paving_stone,6,low,2024-12-12
+483,West Dock 483,west,57,mixed,3,medium,2025-05-14
+484,Central Dock 484,central,45,gravel_edge,4,elevated,2022-03-28
+485,River Side Dock 485,river_side,12,mixed,8,low,2022-08-18
+486,South Dock 486,south,38,paving_stone,7,low,2023-08-15
+487,South Dock 487,south,41,asphalt,1,medium,2024-11-17
+488,South Dock 488,south,35,paving_stone,2,low,2022-05-04
+489,River Side Dock 489,river_side,9,mixed,9,medium,2022-09-10
+490,East Dock 490,east,22,concrete,5,elevated,2025-01-03
+491,South Dock 491,south,60,asphalt,8,low,2025-02-05
+492,East Dock 492,east,54,mixed,6,medium,2023-09-10
+493,South Dock 493,south,26,gravel_edge,10,low,2022-10-13
+494,Central Dock 494,central,8,asphalt,4,medium,2025-02-25
+495,West Dock 495,west,49,mixed,9,medium,2022-12-20
+496,West Dock 496,west,16,gravel_edge,1,low,2024-04-07
+497,South Dock 497,south,15,asphalt,9,elevated,2025-06-23
+498,North Dock 498,north,10,paving_stone,2,low,2023-01-11
+499,South Dock 499,south,33,mixed,8,low,2024-10-13
+500,West Dock 500,west,36,concrete,3,low,2023-09-02
+501,River Side Dock 501,river_side,51,concrete,2,low,2022-06-12
+502,North Dock 502,north,39,concrete,4,low,2025-05-19
+503,North Dock 503,north,45,gravel_edge,6,elevated,2022-06-10
+504,River Side Dock 504,river_side,22,mixed,6,elevated,2025-02-19
+505,South Dock 505,south,50,paving_stone,5,low,2024-04-02
+506,South Dock 506,south,48,paving_stone,3,low,2022-11-28
+507,West Dock 507,west,65,asphalt,1,low,2022-10-27
+508,North Dock 508,north,19,concrete,2,low,2022-02-15
+509,South Dock 509,south,32,paving_stone,5,medium,2023-03-25
+510,River Side Dock 510,river_side,25,gravel_edge,6,low,2024-11-30
+511,North Dock 511,north,10,gravel_edge,2,low,2023-06-20
+512,South Dock 512,south,12,concrete,4,low,2022-02-06
+513,North Dock 513,north,19,mixed,7,low,2024-07-06
+514,North Dock 514,north,14,concrete,2,elevated,2023-09-16
+515,West Dock 515,west,26,concrete,2,low,2025-03-01
+516,Central Dock 516,central,63,mixed,9,low,2025-04-23
+517,East Dock 517,east,59,gravel_edge,6,low,2024-04-29
+518,Central Dock 518,central,37,concrete,4,low,2023-06-16
+519,West Dock 519,west,63,gravel_edge,8,low,2024-06-10
+520,South Dock 520,south,49,mixed,3,low,2023-01-26
+521,Central Dock 521,central,63,paving_stone,9,medium,2023-05-28
+522,North Dock 522,north,20,mixed,2,low,2022-06-21
+523,River Side Dock 523,river_side,29,mixed,9,low,2024-06-29
+524,West Dock 524,west,34,gravel_edge,3,elevated,2023-12-01
+525,South Dock 525,south,26,mixed,10,low,2025-05-29
+526,East Dock 526,east,25,asphalt,7,medium,2025-07-14
+527,South Dock 527,south,14,mixed,6,medium,2022-12-05
+528,West Dock 528,west,13,gravel_edge,7,low,2024-01-23
+529,West Dock 529,west,18,paving_stone,9,medium,2024-09-12
+530,West Dock 530,west,42,concrete,6,medium,2024-05-16
+531,West Dock 531,west,11,concrete,1,medium,2024-02-24
+532,Central Dock 532,central,53,paving_stone,3,medium,2024-07-05
+533,South Dock 533,south,18,mixed,9,elevated,2022-09-13
+534,East Dock 534,east,28,concrete,1,low,2024-05-14
+535,River Side Dock 535,river_side,47,asphalt,9,medium,2025-03-13
+536,East Dock 536,east,63,gravel_edge,5,medium,2024-06-08
+537,North Dock 537,north,21,gravel_edge,4,low,2022-10-15
+538,West Dock 538,west,9,concrete,5,low,2025-06-16
+539,North Dock 539,north,33,paving_stone,6,medium,2023-12-01
+540,West Dock 540,west,43,paving_stone,10,low,2023-03-17
+541,River Side Dock 541,river_side,40,concrete,8,elevated,2022-01-30
+542,West Dock 542,west,19,asphalt,1,medium,2025-02-01
+543,West Dock 543,west,60,asphalt,4,medium,2025-04-21
+544,West Dock 544,west,65,gravel_edge,7,elevated,2022-07-23
+545,East Dock 545,east,51,paving_stone,5,low,2022-07-19
+546,River Side Dock 546,river_side,54,gravel_edge,2,elevated,2025-05-12
+547,North Dock 547,north,57,gravel_edge,10,medium,2022-04-18
+548,River Side Dock 548,river_side,13,gravel_edge,3,medium,2025-03-08
+549,North Dock 549,north,9,concrete,6,low,2024-04-04
+550,River Side Dock 550,river_side,48,gravel_edge,2,low,2025-03-11
